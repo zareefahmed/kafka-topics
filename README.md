@@ -168,9 +168,3 @@
     - Building a Real-time Analytics API
     - Implementing Event-Driven Microservices
     - Creating a Data Replication Tool with Kafka Connect
-
-12. **Next Steps & Further Reading**
-    - Exploring Confluent Cloud Services
-    - Using Confluent Tools: ksqlDB, Control Center, and others from Python
-    - Staying Updated with Kafka: Community, Updates, and Resources
-
